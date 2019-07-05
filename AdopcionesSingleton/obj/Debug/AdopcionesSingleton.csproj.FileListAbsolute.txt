@@ -1,0 +1,7 @@
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe.config
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.pdb
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csprojAssemblyReference.cache
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.exe
+C:\Users\SISTEMAS 231118\Documents\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.pdb
